@@ -1,0 +1,11 @@
+.next
+node_modules
+.npm-cache
+out
+coverage
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+*.tsbuildinfo
+.env*
