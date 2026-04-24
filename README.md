@@ -204,7 +204,7 @@ Inside that file, the important pieces are:
 Create a `.env.local` file in the project root and add:
 
 ```env
-WATCHMODE_API_KEY=your_key_here
+WATCHMODE_API_KEY= 8c6b522b
 ```
 
 Note:
